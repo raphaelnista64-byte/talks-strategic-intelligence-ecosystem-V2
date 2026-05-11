@@ -1,4 +1,4 @@
-# VeccTalks
+# Talks
 
 Ecossistema corporativo de inteligência artificial desenvolvido para transformar o acesso ao conhecimento interno, reduzir ruído operacional e fortalecer a governança corporativa por meio de agentes especialistas.
 
@@ -8,7 +8,7 @@ O projeto foi concebido como um sistema nervoso corporativo digital, capaz de or
 
 ## 📌 Visão geral
 
-O **VeccTalks** foi criado para centralizar o acesso ao conhecimento corporativo e eliminar gargalos operacionais gerados por normas complexas, regras de negócio de difícil interpretação e dependência de interações humanas repetitivas [file:188].
+O **Talks** foi criado para centralizar o acesso ao conhecimento corporativo e eliminar gargalos operacionais gerados por normas complexas, regras de negócio de difícil interpretação e dependência de interações humanas repetitivas [file:188].
 
 A proposta da solução é oferecer um ponto único de contato para o colaborador, com respostas mais precisas, rastreáveis e contextualizadas, sem depender de interpretações genéricas ou conhecimento disperso em diferentes áreas [file:188].
 
@@ -36,7 +36,7 @@ O projeto foi estruturado para [file:188]:
 
 ## 🧠 Principais capacidades
 
-O VeccTalks atua como um ecossistema de inteligência corporativa com múltiplas frentes de atuação [file:188]:
+O Talks atua como um ecossistema de inteligência corporativa com múltiplas frentes de atuação [file:188]:
 
 - **Guardião do Compliance** — bloqueio de pagamentos sem validação prévia.
 - **Central de Conhecimento Multidisciplinar** — ponto único de contato para o colaborador.
@@ -56,8 +56,8 @@ A arquitetura foi desenhada como um ecossistema multiagente com funções separa
 ### Componentes centrais
 
 - **Roteador Especialista** — identifica a intenção principal e direciona para o agente correto [file:188].
-- **VeccControl** — braço operacional, voltado para ITs, ERP Delta, AllStrategy e auditoria ativa [file:188].
-- **Vecc People** — braço cultural, voltado para crescimento, liderança, meritocracia e avaliação de desempenho [file:188].
+- **Control** — braço operacional, voltado para ITs, ERP Delta, AllStrategy e auditoria ativa [file:188].
+- **People** — braço cultural, voltado para crescimento, liderança, meritocracia e avaliação de desempenho [file:188].
 - **Base oficial de conhecimento** — documentos internos estruturados por área [file:188].
 
 ## 📚 Fontes de conhecimento
@@ -74,7 +74,7 @@ As fontes contemplam conteúdos de:
 
 ## 🔐 Segurança e governança
 
-A arquitetura do VeccTalks foi desenhada com foco em segurança corporativa e proteção de contexto interno [file:188].
+A arquitetura do Talks foi desenhada com foco em segurança corporativa e proteção de contexto interno [file:188].
 
 Os dados operam dentro do tenant da organização, sem uso de dados corporativos para treinamento de modelos externos, e a publicação do agente passa por checkpoints de governança, sincronização de permissões e higienização de vocabulário [file:188].
 
@@ -89,7 +89,7 @@ O projeto foi construído no ecossistema Microsoft e configurado com recursos de
 
 ## 📈 Impacto para o negócio
 
-O VeccTalks foi concebido para gerar impacto direto em eficiência operacional e maturidade organizacional [file:188].
+O Talks foi concebido para gerar impacto direto em eficiência operacional e maturidade organizacional [file:188].
 
 Entre os ganhos esperados estão:
 - autonomia informacional 24/7;
